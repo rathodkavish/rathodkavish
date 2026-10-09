@@ -58,8 +58,8 @@ See the relevant certificate records for exact titles and completion details.
 ## 📫 Connect With Me
 
 - GitHub: [@rathodkavish](https://github.com/rathodkavish)
-- LinkedIn: Add your LinkedIn profile URL here
-
+- LinkedIn: 
+https://www.linkedin.com/in/kavish-rathod-319213248/?isSelfProfile=true
 ---
 
 *Continuously learning, building, and improving my cybersecurity skills.*
